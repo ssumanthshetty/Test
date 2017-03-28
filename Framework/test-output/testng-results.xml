@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="132" started-at="2017-03-05T18:40:25Z" finished-at="2017-03-05T18:40:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="132" started-at="2017-03-05T18:40:25Z" finished-at="2017-03-05T18:40:26Z">
+      <class name="Datadriven.Annotations">
+        <test-method status="PASS" signature="Cookies()[pri:0, instance:Datadriven.Annotations@643b1d11]" name="Cookies" is-config="true" duration-ms="30" started-at="2017-03-05T12:40:25Z" finished-at="2017-03-05T12:40:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cookies -->
+        <test-method status="PASS" signature="UserIdGeneration()[pri:0, instance:Datadriven.Annotations@643b1d11]" name="UserIdGeneration" is-config="true" duration-ms="1" started-at="2017-03-05T12:40:25Z" finished-at="2017-03-05T12:40:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserIdGeneration -->
+        <test-method status="PASS" signature="OpeningBrowser(java.lang.String, java.lang.String)[pri:0, instance:Datadriven.Annotations@643b1d11]" name="OpeningBrowser" duration-ms="20" started-at="2017-03-05T12:40:25Z" data-provider="getData" finished-at="2017-03-05T12:40:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sumanth]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ucm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpeningBrowser -->
+        <test-method status="PASS" signature="ReportGeneration()[pri:0, instance:Datadriven.Annotations@643b1d11]" name="ReportGeneration" is-config="true" duration-ms="2" started-at="2017-03-05T12:40:26Z" finished-at="2017-03-05T12:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportGeneration -->
+        <test-method status="PASS" signature="UserIdGeneration()[pri:0, instance:Datadriven.Annotations@643b1d11]" name="UserIdGeneration" is-config="true" duration-ms="1" started-at="2017-03-05T12:40:26Z" finished-at="2017-03-05T12:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserIdGeneration -->
+        <test-method status="PASS" signature="OpeningBrowser(java.lang.String, java.lang.String)[pri:0, instance:Datadriven.Annotations@643b1d11]" name="OpeningBrowser" duration-ms="6" started-at="2017-03-05T12:40:26Z" data-provider="getData" finished-at="2017-03-05T12:40:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[akshay]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[snhu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpeningBrowser -->
+        <test-method status="PASS" signature="ReportGeneration()[pri:0, instance:Datadriven.Annotations@643b1d11]" name="ReportGeneration" is-config="true" duration-ms="1" started-at="2017-03-05T12:40:26Z" finished-at="2017-03-05T12:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportGeneration -->
+        <test-method status="PASS" signature="CookiesAtClose()[pri:0, instance:Datadriven.Annotations@643b1d11]" name="CookiesAtClose" is-config="true" duration-ms="0" started-at="2017-03-05T12:40:26Z" finished-at="2017-03-05T12:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CookiesAtClose -->
+      </class> <!-- Datadriven.Annotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

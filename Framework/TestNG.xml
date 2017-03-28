@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name= "Automation Test">
+<test name="Smoke testcases">
+<groups>
+    <run>
+    <include name="priority1" />
+    <run />
+   <groups/>
+  <packages>
+     <package name="Test2"/>
+     
+     
+  </packages>
+  </run>
+  </groups>
+</test>
